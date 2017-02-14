@@ -1,0 +1,26 @@
+{
+  "name": "bootcamp-homestudy-day-2-http-api",
+  "version": "1.0.0",
+  "description": "HTTP/API Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor4l/Bootcamp-Homestudy-Day-2-HTTP-API.git"
+  },
+  "keywords": [
+    "HTTP",
+    "API",
+    "Homestudy",
+    "Day",
+    "2"
+  ],
+  "author": "Victor Idongesit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor4l/Bootcamp-Homestudy-Day-2-HTTP-API/issues"
+  },
+  "homepage": "https://github.com/victor4l/Bootcamp-Homestudy-Day-2-HTTP-API#readme"
+}
